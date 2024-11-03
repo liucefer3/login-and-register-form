@@ -104,3 +104,13 @@ body
 {
     color: rgb(6, 226, 123);
 }
+.inputUs i 
+{
+    font-size: 22px;
+    position: absolute; 
+    left: 420px;
+    top: 50%; 
+    transform: translateY(-50%); 
+    color: aliceblue; 
+    pointer-events: none;
+}
